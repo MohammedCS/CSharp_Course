@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/maro/course/Play_Ground/Play_Ground.csproj": {}
+  },
+  "projects": {
+    "/home/maro/course/Play_Ground/Play_Ground.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/maro/course/Play_Ground/Play_Ground.csproj",
+        "projectName": "Play_Ground",
+        "projectPath": "/home/maro/course/Play_Ground/Play_Ground.csproj",
+        "packagesPath": "/home/maro/.nuget/packages/",
+        "outputPath": "/home/maro/course/Play_Ground/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/maro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/maro/.dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
