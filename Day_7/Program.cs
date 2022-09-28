@@ -20,14 +20,11 @@ namespace Task
             }
 
             Console.WriteLine();
-
             for (int i = 0; i < array.Length; i++) 
             {
                 double cubed = Math.Pow(array[i], 3);
                 Console.WriteLine("Number is : " + array[i] + " and cube of it is : " + cubed);
             }
-
-            Console.ReadKey();
 		}
 	}
 }
