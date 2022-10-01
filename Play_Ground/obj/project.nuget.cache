@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IVelNNLOtnGXLwPatjMyjhGCBa1XR0NO5NVHbFiPOohhus69ePYbXw8PX3v2BX30oKIJTOR4Kdw4oOqV5ctL3Q==",
+  "dgSpecHash": "BdtvFMrksTtqd7Rnee7pXpev4mcHIHz3FcncLpjHQedaaFhHuqw01mdScvjf2J3C29WEIHIzVHgLHeo2TR5URg==",
   "success": true,
-  "projectFilePath": "/home/maro/course/Play_Ground/Play_Ground.csproj",
+  "projectFilePath": "/home/maro/CSharp_Course/Play_Ground/Play_Ground.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

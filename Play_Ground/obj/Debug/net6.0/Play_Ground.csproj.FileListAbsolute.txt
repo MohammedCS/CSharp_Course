@@ -1,0 +1,15 @@
+/home/maro/CSharp_Course/Play_Ground/bin/Debug/net6.0/Play_Ground
+/home/maro/CSharp_Course/Play_Ground/bin/Debug/net6.0/Play_Ground.deps.json
+/home/maro/CSharp_Course/Play_Ground/bin/Debug/net6.0/Play_Ground.runtimeconfig.json
+/home/maro/CSharp_Course/Play_Ground/bin/Debug/net6.0/Play_Ground.dll
+/home/maro/CSharp_Course/Play_Ground/bin/Debug/net6.0/Play_Ground.pdb
+/home/maro/CSharp_Course/Play_Ground/obj/Debug/net6.0/Play_Ground.csproj.AssemblyReference.cache
+/home/maro/CSharp_Course/Play_Ground/obj/Debug/net6.0/Play_Ground.GeneratedMSBuildEditorConfig.editorconfig
+/home/maro/CSharp_Course/Play_Ground/obj/Debug/net6.0/Play_Ground.AssemblyInfoInputs.cache
+/home/maro/CSharp_Course/Play_Ground/obj/Debug/net6.0/Play_Ground.AssemblyInfo.cs
+/home/maro/CSharp_Course/Play_Ground/obj/Debug/net6.0/Play_Ground.csproj.CoreCompileInputs.cache
+/home/maro/CSharp_Course/Play_Ground/obj/Debug/net6.0/Play_Ground.dll
+/home/maro/CSharp_Course/Play_Ground/obj/Debug/net6.0/refint/Play_Ground.dll
+/home/maro/CSharp_Course/Play_Ground/obj/Debug/net6.0/Play_Ground.pdb
+/home/maro/CSharp_Course/Play_Ground/obj/Debug/net6.0/Play_Ground.genruntimeconfig.cache
+/home/maro/CSharp_Course/Play_Ground/obj/Debug/net6.0/ref/Play_Ground.dll
