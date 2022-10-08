@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/maro/course/In_Lap/In_Lap.csproj": {}
+    "/home/maro/CSharp_Course/In_Lap/In_Lap.csproj": {}
   },
   "projects": {
-    "/home/maro/course/In_Lap/In_Lap.csproj": {
+    "/home/maro/CSharp_Course/In_Lap/In_Lap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/maro/course/In_Lap/In_Lap.csproj",
+        "projectUniqueName": "/home/maro/CSharp_Course/In_Lap/In_Lap.csproj",
         "projectName": "In_Lap",
-        "projectPath": "/home/maro/course/In_Lap/In_Lap.csproj",
+        "projectPath": "/home/maro/CSharp_Course/In_Lap/In_Lap.csproj",
         "packagesPath": "/home/maro/.nuget/packages/",
-        "outputPath": "/home/maro/course/In_Lap/obj/",
+        "outputPath": "/home/maro/CSharp_Course/In_Lap/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/maro/.nuget/NuGet/NuGet.Config"

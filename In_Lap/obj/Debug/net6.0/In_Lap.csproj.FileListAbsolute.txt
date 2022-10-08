@@ -1,0 +1,5 @@
+/home/maro/CSharp_Course/In_Lap/obj/Debug/net6.0/In_Lap.csproj.AssemblyReference.cache
+/home/maro/CSharp_Course/In_Lap/obj/Debug/net6.0/In_Lap.GeneratedMSBuildEditorConfig.editorconfig
+/home/maro/CSharp_Course/In_Lap/obj/Debug/net6.0/In_Lap.AssemblyInfoInputs.cache
+/home/maro/CSharp_Course/In_Lap/obj/Debug/net6.0/In_Lap.AssemblyInfo.cs
+/home/maro/CSharp_Course/In_Lap/obj/Debug/net6.0/In_Lap.csproj.CoreCompileInputs.cache

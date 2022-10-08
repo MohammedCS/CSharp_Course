@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Console;
 
 namespace In_Lap
 {
@@ -6,7 +7,10 @@ namespace In_Lap
 	{
 		static void Main(string[] args)
 		{
-			
+            CList arr = new CList();
+            arr.Add("A");
+            Console.WriteLine(arr[0]);
+
 		}
 	}
 }
