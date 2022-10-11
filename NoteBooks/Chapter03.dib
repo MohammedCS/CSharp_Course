@@ -477,6 +477,20 @@ WriteLine($"g is {g} and h is {h}");
 
 ## Understanding the default rounding rules
 
+#!markdown
+
+the rule for rounding in C# is subtly different from primary school rule:
+
+#!markdown
+
+**Banker's Rounding Rule**
+
+#!markdown
+
+* It always rounds `down` if the decimal part is less than the midpoint .5
+* It always rounds `up` if the decimal part is more than the midpoint .5
+* It will round `up` if the decimal part is the midpoint .5 and the non-decimal part is odd, but it will round `down` if the non-decimal part is even.
+
 #!csharp
 
 double[] doubles = new[]
@@ -524,6 +538,10 @@ WriteLine(me.ToString());
 
 ## Converting from a binary object to a string
 
+#!markdown
+
+**:X** for Hexadecimal representation
+
 #!csharp
 
  // allocate array of 128 bytes
@@ -548,6 +566,10 @@ WriteLine(me.ToString());
 #!markdown
 
 ## Parsing from strings to numbers or dates and times
+
+#!markdown
+
+**:D** using the long date fromat
 
 #!csharp
 
@@ -613,6 +635,29 @@ catch (Exception ex)
 }
 
 WriteLine("After parsing");
+
+#!markdown
+
+## Catching With Filters
+You can also add filters to a catch statement using the when keyword, as shown in the following code:
+
+#!csharp
+
+Write("Enter an amount : ");
+string amount = ReadLine();
+
+try
+{
+    decimal amountValue = decimal.Parse(amount);
+}
+catch (FormatException) when (amount.Contains("$"))
+{
+    WriteLine("Amounts cannot use the dollar sign!");
+}
+catch (FormatException)
+{
+    WriteLine("Amounts must only contain digits!");
+}
 
 #!markdown
 
