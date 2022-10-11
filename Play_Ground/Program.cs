@@ -1,29 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
 using static System.Console;
-using static System.Convert;
 
-namespace Task_1
+#nullable disable
+
+namespace Test
 {
-	class Program
-	{
-		static void Main(string[] args)
-		{
-            Write("Enter the text : ");
-            string text = ReadLine();
-            int count = 0;
-
-            for ( int i = 0; i < text.Length; i++ )
-                if ( text[i] == '{' || text[i] == '(' || text[i] == '[')
-                    count++;
-                else
-                    count--;
-            
-            if (count == 0) 
-                WriteLine("Yes");
-            else
-                WriteLine("No");
-
-		}
-	}
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double g = 111111111.523;
+            WriteLine($"g is {g:N2}, f is ");
+        }
+    }
 }

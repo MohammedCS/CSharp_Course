@@ -3,3 +3,13 @@
 /home/maro/CSharp_Course/In_Lap/obj/Debug/net6.0/In_Lap.AssemblyInfoInputs.cache
 /home/maro/CSharp_Course/In_Lap/obj/Debug/net6.0/In_Lap.AssemblyInfo.cs
 /home/maro/CSharp_Course/In_Lap/obj/Debug/net6.0/In_Lap.csproj.CoreCompileInputs.cache
+/home/maro/CSharp_Course/In_Lap/bin/Debug/net6.0/In_Lap
+/home/maro/CSharp_Course/In_Lap/bin/Debug/net6.0/In_Lap.deps.json
+/home/maro/CSharp_Course/In_Lap/bin/Debug/net6.0/In_Lap.runtimeconfig.json
+/home/maro/CSharp_Course/In_Lap/bin/Debug/net6.0/In_Lap.dll
+/home/maro/CSharp_Course/In_Lap/bin/Debug/net6.0/In_Lap.pdb
+/home/maro/CSharp_Course/In_Lap/obj/Debug/net6.0/In_Lap.dll
+/home/maro/CSharp_Course/In_Lap/obj/Debug/net6.0/refint/In_Lap.dll
+/home/maro/CSharp_Course/In_Lap/obj/Debug/net6.0/In_Lap.pdb
+/home/maro/CSharp_Course/In_Lap/obj/Debug/net6.0/In_Lap.genruntimeconfig.cache
+/home/maro/CSharp_Course/In_Lap/obj/Debug/net6.0/ref/In_Lap.dll
